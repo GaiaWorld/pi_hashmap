@@ -1,0 +1,9 @@
+[package]
+name = "pi_hashmap"
+version = "0.1.0"
+authors = ["zmythleo <zmythleo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+pi_map = {path="../pi_map"}
+fnv = "*"
